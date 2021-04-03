@@ -1,0 +1,25 @@
+{
+  "name": "music-bot",
+  "version": "1.0.0",
+  "description": "Discord bot to play music in voice channels.",
+  "main": "Music-bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/sudo_TuX/music-bot.git"
+  },
+  "author": "Anton Van Assche",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gitlab.com/sudo_TuX/music-bot/issues"
+  },
+  "homepage": "https://gitlab.com/sudo_TuX/music-bot#readme",
+  "dependencies": {
+    "@discordjs/opus": "^0.5.0",
+    "discord.js": "^12.5.3",
+    "distube": "^2.8.12",
+    "ffmpeg-static": "^4.3.0"
+  }
+}
