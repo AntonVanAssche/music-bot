@@ -3,10 +3,10 @@ Discord bot to play music in voice channels.
 
 ## Used dependencies
 This bot uses the following dependencies:
-[discord.js](https://discord.js.org/#/) - npm install discord.js
-[ffmpeg-static](https://www.npmjs.com/package/ffmpeg-static) - npm install ffmpeg-static
-[@discordjs/opus](https://www.npmjs.com/package/@discordjs/opus) - npm install @discordjs/opus
-[distube](https://distube.js.org/#/) - npm install distube
+- [discord.js](https://discord.js.org/#/) - npm install discord.js
+- [ffmpeg-static](https://www.npmjs.com/package/ffmpeg-static) - npm install ffmpeg-static
+- [@discordjs/opus](https://www.npmjs.com/package/@discordjs/opus) - npm install @discordjs/opus
+- [distube](https://distube.js.org/#/) - npm install distube
 
 ## Commands
 | Commands | Function |
