@@ -22,8 +22,6 @@ This bot uses the following dependencies:
 | !volume | Change volume. |
 
 ## Installation
-**Warning DO NOT run the `setup.sh` script if you do not fully understand what it does. Seriously, DON'T!**
-
 ```
 $ git clone https://github.com/TuX-sudo/music-bot.git
 $ cd music-bot
