@@ -25,7 +25,7 @@ This bot uses the following dependencies:
 **Warning DO NOT run the `setup.sh` script if you do not fully understand what it does. Seriously, DON'T!**
 
 ```
-$ git clone https://gitlab.com/sudo_TuX/music-bot.git
+$ git clone https://github.com/TuX-sudo/music-bot.git
 $ chmod +x music-bot/setup.sh
 $ ./music-bot/setup.sh
 ```
