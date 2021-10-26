@@ -26,6 +26,7 @@ This bot uses the following dependencies:
 
 ```
 $ git clone https://github.com/TuX-sudo/music-bot.git
-$ chmod +x music-bot/setup.sh
-$ ./music-bot/setup.sh
+$ cd music-bot
+$ npm i
+$ node Music-bot.js
 ```
