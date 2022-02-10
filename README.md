@@ -23,7 +23,7 @@ This bot uses the following dependencies:
 
 ## Installation
 ```
-$ git clone https://github.com/TuX-sudo/music-bot.git
+$ git clone https://github.com/AntonVanAssche/music-bot.git
 $ cd music-bot
 $ npm i
 $ node Music-bot.js
